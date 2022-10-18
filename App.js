@@ -4,9 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>
-        V-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON
-      </Text>
+      <Text>Teste React Native usando Expo. Autor: Kelvin Viana</Text>
       <StatusBar style="auto" />
     </View>
   );
